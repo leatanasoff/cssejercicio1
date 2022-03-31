@@ -1,0 +1,14 @@
+
+.caja{
+    width: 230px;
+    height: 230px;
+    font-size: 2em;
+    display: inline-block;
+    background-color: red;
+    color: yellow;
+}
+
+ #caja2{
+    background-color: black;
+    color: white;
+}
